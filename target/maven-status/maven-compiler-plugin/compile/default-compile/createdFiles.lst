@@ -1,1 +1,6 @@
+br/com/firstdecision/firstdecision/repository/IUsuarioRepository.class
+br/com/firstdecision/firstdecision/service/UsuarioService.class
 br/com/firstdecision/firstdecision/FirstdecisionApplication.class
+br/com/firstdecision/firstdecision/controller/UsuarioController.class
+br/com/firstdecision/firstdecision/model/Usuario.class
+br/com/firstdecision/firstdecision/service/IUsuarioService.class
